@@ -1,3 +1,5 @@
+<h1>CS50 AI</h1>
+
 My solutions to CS50's Introduction to Artificial Intelligence with Python course (taken in 2022).
 
 Course info: https://cs50.harvard.edu/ai/2024/
